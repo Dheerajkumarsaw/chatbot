@@ -1,0 +1,25 @@
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.option-button {
+  margin: 3px;
+  border-radius: 25px;
+  padding: 8px;
+  border-color: blue;
+  background: transparent;
+  text-align: center;
+}
+
+.option-button.daySelected {
+  background-color: lawngreen;
+}
+
+.option-button.timeSelected {
+  background-color: lawngreen;
+}
+
+.option-button:hover {
+  background-color: aqua;
+}

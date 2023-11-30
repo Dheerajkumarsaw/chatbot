@@ -1,0 +1,14 @@
+.exit_button {
+  width: 10%;
+  background-color: #0074e4;
+  padding: 10px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-left: 45vw;
+  margin-top: 50px;
+}

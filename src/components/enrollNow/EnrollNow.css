@@ -1,0 +1,51 @@
+.container {
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.enroll-button {
+  width: 100%;
+  background-color: #0074e4;
+  padding: 10px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.enroll-button:hover {
+  background-color: #0056b3;
+}
